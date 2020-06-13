@@ -6,6 +6,7 @@ Keep Support Us!
 **Popular Tools**
 - PTF (Pentest Tools Framework)
 - Nuubi Tools
+- ProxDownloader
 - XRCross (Recon)
 - Crobat
 - CVE-2020-7246
