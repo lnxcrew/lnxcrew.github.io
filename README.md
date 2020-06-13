@@ -8,7 +8,6 @@ Disini hanya sepintas deskripsi singkat yang ingin kami sampaikan pada README.MD
 - Nuubi Tools
 - ProxDownloader
 - XRCross (Recon)
-- Crobat
 - CVE-2020-7246
 - DDOS Crewz
 > Lihat Alat/Program di Repositori GitHub kami dan Gunakan Semua
