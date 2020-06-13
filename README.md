@@ -3,9 +3,18 @@ Disini hanya sepintas deskripsi singkat yang ingin kami sampaikan pada README.MD
 
 Keep Support Us!
 
-### Previews
+**Popular Tools**
+- PTF (Pentest Tools Framework)
+- Nuubi Tools
+- XRCross (Recon)
+- Crobat
+- CVE-2020-7246
+- DDOS Crewz
+> Check Tools/program on our GitHub Repository and Use All
 
-Maintenance
+### Previews Webpage
+
+Still Maintenance
 |--|
 ![img](https://raw.githubusercontent.com/lnxcrew/lnxcrew.github.io/master/Screenshot/Screenshot_1.png)
 
