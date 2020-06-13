@@ -18,4 +18,7 @@ Still Maintenance
 |--|
 ![img](https://raw.githubusercontent.com/lnxcrew/lnxcrew.github.io/master/Screenshot/Screenshot_1.png)
 
+**Visit GitHub Blogs**
+- [Webpages](https://github.com/hahwul/dalfox)
+
 > © 2020 LNX#.CREW
