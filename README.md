@@ -11,11 +11,11 @@ Keep Support Us!
 - Crobat
 - CVE-2020-7246
 - DDOS Crewz
-> Check Tools/program on our GitHub Repository and Use All
+> Lihat Alat/Program di Repositori GitHub kami dan Gunakan Semua
 
 ### Pratinjau Halaman
 
-Still Maintenance
+Masih Pengembangan
 |--|
 ![img](https://raw.githubusercontent.com/lnxcrew/lnxcrew.github.io/master/Screenshot/Screenshot_1.png)
 
